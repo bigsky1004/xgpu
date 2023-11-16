@@ -21,7 +21,7 @@ sudo apt -y install python3-pip > /dev/null 2>&1
 echo "STEP 5 of 10: Installed Python"
 
 sudo git clone https://github.com/shanhaicoder/XENGPUMiner.git > /dev/null 2>&1
-echo "STEP 6 of 10: Cloned https://github.com/shanhaicoder/XENGPUMiner.git"
+echo "STEP 6 of 10: Cloned https://github.com/bigsky1004/XENGPUMiner.git"
 
 cd XENGPUMiner
 sudo chmod +x build.sh > /dev/null 2>&1
